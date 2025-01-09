@@ -1,4 +1,7 @@
 # Power-BI-Dashboard-for-Weather-Forecasting
+![Weather_Dashboard](https://github.com/user-attachments/assets/2002a5f5-62b0-4524-88b9-3b50947f99db)
+
+# Power-BI-Dashboard-for-Weather-Forecasting
 This repository contains a comprehensive project that combines Python for data analysis and Power BI for data visualization, focusing on Weather-Forecasting data. The project demonstrates how to extract insights from raw  data and transform it into interactive, visually appealing dashboards.
 
 # Tool used: Python and Power BI
