@@ -22,7 +22,7 @@ Power BI file (.pbix) containing the final dashboard.
 Documentation on how to reproduce the analysis and set up the Power BI dashboard.
 
 # How to Use:
-Clone the repository to your local machine.
+Download the data to your local machine.
 Run the Python scripts to preprocess and analyze the data.
 Open the Power BI file to explore the interactive dashboard.
 
